@@ -1,2 +1,5 @@
 # hello-world
-this is a hello-world repository and I don't even know what it is :/
+
+Hi Humans!
+
+I don't want to write anything but oops I already wrote something!
